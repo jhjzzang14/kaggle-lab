@@ -1,6 +1,8 @@
 ### 커리큘럼
 > https://kaggle-kr.tistory.com/32
 
+> https://www.kaggle.com/c/word2vec-nlp-tutorial
+
 ### 머신러닝 도커 환경 구축
 
 ```bash
