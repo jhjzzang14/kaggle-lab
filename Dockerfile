@@ -2,4 +2,4 @@ from ufoym/deepo:latest
 
 COPY . . 
 
-WORKDIR /app
+WORKDIR /app/src
